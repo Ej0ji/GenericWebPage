@@ -3,7 +3,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-# Importing all dependencies from the views
+# Importing all dependencies from the routes in views
 from views import *
 
 # This "if" were created to guarantee that the app runs just when the main.py is directly executed 
