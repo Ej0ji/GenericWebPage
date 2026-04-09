@@ -10,4 +10,3 @@ from views import *
 if __name__ == "__main__": 
     app.run(debug=True) #debug=True is used to not need to run main everytime that is added a new change 
 
-#hello
