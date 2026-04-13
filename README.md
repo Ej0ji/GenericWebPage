@@ -1,4 +1,4 @@
 # GenericWebPage
 Just a generic web page in Flask...
 
-GenericWebPage were created to practice Flask module and Web development skills
+GenericWebPage was created to be a practice to Flask module and Web development skills
